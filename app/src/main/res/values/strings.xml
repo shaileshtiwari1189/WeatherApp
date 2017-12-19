@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="direction">Direction</string>
+    <string name="speed">speed</string>
+    <string name="google_places_key">AIzaSyAEoIhZIzCekFVyDr6Zg6OLb5ANUveXXOg</string>
+    <string name="humidity">Humidity </string>
+    <string name="weather_details">WeatherDetails</string>
+</resources>
